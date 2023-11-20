@@ -1,0 +1,19 @@
+/* Navbar.css */
+.navbar {
+    display: flex;
+    background-color: rgb(235, 241, 234);
+    color: white;
+    padding: 10px;
+  }
+  
+  .navbar a {
+    text-decoration: none; /* Remove underlines */
+    color: hsl(0, 79%, 43%);
+    padding: 10px;
+    margin: 0 10px;
+  }
+  
+  .navbar a:hover {
+    text-decoration: none; /* Remove underline on hover */
+  }
+  
